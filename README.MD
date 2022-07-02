@@ -2,7 +2,7 @@
 Interact with it [live](https://agile-peak-93412.herokuapp.com/)
 
 ## Intro
-This project is a web application that allow ones to query Youtube for video requests and recieve the video loaded instatly in the main window. It also loads the top 5 relevant videos in a mini-view sidepanel list. From where users can click to load that element as the main video.
+This project is a web application that allow one to query Youtube for video requests and recieve the video loaded instatly in the main window. It also loads the top 5 relevant videos in a mini-view sidepanel list. From where users can click to load that element as the main video.
 
 The purpose of this was to build a highly reactive application. It was built using Node.js and the React framework, and The Youtube Search API. It was bundled/compiled together using Webpack5 and Babel7.
 
